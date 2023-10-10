@@ -4,3 +4,5 @@
 #### four header
 ##### five header
 ###### six header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
